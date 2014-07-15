@@ -12,12 +12,12 @@ An awesome free one page HTML template for your startup business or personal web
 - Cross-browser Compatibility
 - CSS3 Animations
 - SEO Optimized
-- 100% Fully Customisable
+- 100% Fully Customizable
 - Sticky Header 
 - Google Fonts
 - Built with HTML5 & CSS3
 - Strong focus on Usability and UX
-- Rsponsive layout
+- Responsive layout
 - CSS Framework - Bootstrap 3
 - FontAwesome Icon Integrated
 - Clean and stylish UI
