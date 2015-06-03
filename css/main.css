@@ -16,8 +16,10 @@ License URI:   http://www.gnu.org/licenses/gpl-2.0.html
     General 
 ========================================================================== */
 h1,h2,h3,h4,h5,h6,.navbar {
-    font-family:'Oswald';
-    font-weight:100;
+    /*font-family:'Oswald';*/
+    font-family: 'News Cycle', sans-serif;
+    /*font-weight:100;*/
+    font-weight: 400;
 }
 
 body {
@@ -127,7 +129,8 @@ Navigation
 }
 
 .navbar-dark a {
-    color:rgb(153,160,162);
+    /*color:rgb(153,160,162);*/
+    color: rgb(205, 209, 210);
 }
 
 .navbar-brand {
@@ -242,12 +245,16 @@ content-block
 Recent works
 ========================================================================== */
 .recent-projects-title {
-    background:#222222;
-    color:#ECF0F1;
-    text-transform:uppercase;
-    padding:40px 15px;
-    text-align:center;
-    font-size:60px;
+    background: rgba(236, 240, 241, 1);
+    color: #333;
+    text-transform: uppercase;
+    padding: 40px 0px;
+    text-align: center;
+    font-size: 62px;
+    font-family: 'News Cycle', sans-serif;
+    word-spacing: 17px;
+    letter-spacing: 4px;
+    font-weight: 400;
 }
 
 .owl-carousel .owl-item img {
