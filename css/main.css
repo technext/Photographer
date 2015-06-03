@@ -304,6 +304,10 @@ Recent works
     opacity: 0;
 }
 
+.owl-theme .owl-controls .owl-page span {
+    background: #34C8B2;
+}
+
 
 /* ========================================================================== 
 blog 
